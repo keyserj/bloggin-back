@@ -28,3 +28,6 @@
 
 # Ignore tag files
 /tags
+
+# Ignore sensitive configs
+/config/database.yml
